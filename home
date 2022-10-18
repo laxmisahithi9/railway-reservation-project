@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Train E-ticketing</title>
+    </head>
+    
+    <style>
+        body {
+            
+            
+        }
+        .navigation_bar
+        {
+            background-color:blue;
+            border-width: thick;
+            border-bottom-style: ridge;
+            width:inherit;
+            height:50px;
+            overflow: hidden;      
+        }
+        a{
+            text-decoration:none;
+            padding:20px;
+            font-size: 25px;
+            color:#fff;
+        }
+        a:hover{
+            color:rgb(255, 0, 0);
+            background-color:darkseagreen;
+        }
+        
+        </style>  
+   
+    <body>
+    <div class="navigation_bar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a  href="home.html" > Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="booking.html">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="registartion.html"> Passenger</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="reservation.html">Online Reservation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="TrainStatus.html">Train Status</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href ="cancellation.html"> Cancel Reservation</a>
+        </div>
+        <div class="lol">
+        <table><br>
+            <tr><td style="text-align:center;font-size:40px;color:blue" colspan="8">Online Train Reservation Portal</td></tr>
+            <tr><td  colspan="8">Railway Service have never been convenient. We provide the best newtwork in India.India has some of the most spectacular and unforgettable rail 
+                journeys in the world. Here you experience a simple way to find out everything you need to know in one easy place. There's no better way to enjoy India's outback, cities, coastal towns and regional areas in comfort.<br>Travel anywhere hasslefree.</td></tr>
+            <td><img src="train.webp" style="height: 499px;" width="1480px">/></td>
+            </tr>
+        </table><br>
+        </div>
+</body>
